@@ -1,8 +1,9 @@
-# React + Vite
+# custom-scroll-indicator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a very basic scrolling application that visually shows or indicates how much a user has scrolled a web page
 
-Currently, two official plugins are available:
+The technologies used in this application are react , javaScript and CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To view this application, you can follow the link provided below:
+
+https://scrolling-indicator.netlify.app
